@@ -1,0 +1,11 @@
+id,titulo,tipo,genero,año_estreno,puntuacion,duracion,pais_origen,clasificacion,popularidad
+1,Stranger Things,Serie,Ciencia Ficción,2016,8.7,4 temporadas,EE.UU.,TV-14,Alta
+2,El juego del calamar,Serie,Thriller,2021,8.0,1 temporada,Corea del Sur,TV-MA,Muy alta
+3,La casa de papel,Serie,Acción,2017,8.2,5 temporadas,España,TV-MA,Alta
+4,Bird Box,Película,Suspenso,2018,6.6,124 minutos,EE.UU.,TV-MA,Alta
+5,The Irishman,Película,Crimen,2019,7.8,209 minutos,EE.UU.,R,Media
+6,Wednesday,Serie,Comedia Oscura,2022,8.1,1 temporada,EE.UU.,TV-14,Muy alta
+7,Extraction,Película,Acción,2020,6.8,117 minutos,EE.UU.,R,Alta
+8,Dark,Serie,Ciencia Ficción,2017,8.8,3 temporadas,Alemania,TV-MA,Alta
+9,Enola Holmes,Película,Aventura,2020,6.6,123 minutos,EE.UU.,PG-13,Media
+10,Narcos,Serie,Crimen,2015,8.8,3 temporadas,EE.UU.,TV-MA,Alta
